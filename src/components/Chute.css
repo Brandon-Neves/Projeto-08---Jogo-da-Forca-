@@ -1,0 +1,42 @@
+.chutar {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 600px;
+  margin-left: 60px;
+}
+
+.chutar button {
+  background-color: #e6edf2;
+  margin: 5px;
+  height: 40px;
+  border-radius: 6px;
+  border: 1px solid #639ec8;
+  font-size: 16px;
+  font-weight: 700;
+  color: #2a5f85;
+  padding: 0 12px;
+  cursor: pointer;
+}
+
+.chutar button:hover {
+  background-color: #e6edf2;
+  color: #2a5f85;
+  cursor: pointer;
+}
+
+.chutar input {
+  height: 14px;
+  width: 340px;
+  font-size: 16px;
+  margin-right: 10px;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.chutar span {
+  font-size: 18px;
+  margin-right: 10px;
+}
